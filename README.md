@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 
 ## Deep Learning Project ##
@@ -159,3 +160,7 @@ $ python follower.py my_amazing_model.h5
 ```
 
 **Note:** If you'd like to see an overlay of the detected region on each camera frame from the drone, simply pass the `--pred_viz` parameter to `follower.py`
+||||||| merged common ancestors
+=======
+# RoboND-DeepLearning-Project
+>>>>>>> cc705fa53b8c0e705de5220cfd183bb833d9730e
